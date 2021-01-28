@@ -36,7 +36,7 @@ Q16. When using triple equals === in JavaScript, we are testing for strict equal
 Q17. It will print 'How are you?' because 2 is != true so go to line 3, the else if condition is true so it prints 'How are you?'\
 Q19. When the function get called, in the for-loop, newArr is push in a (1, doSomething(1, callback)), and then doSomething(1, callback) will return 1+2 whcih is 3, then callback return 3\*2 which is 6 and got push into the newArr and i increase. same way to get 8 and 10. \
 Q21. The output is 
-**1\
-4\
-3\
-2\**.
+**1**\
+**4**\
+**3**\
+**2**
