@@ -1,10 +1,10 @@
-Q1. It writes the value ***i*** to log on the debugging console.\
-Q2. It writes the value ***discountedPrice*** to log on the debugging console.\
+Q1. It writes the value ***i*** which is length of array to log on the debugging console.\
+Q2. It writes the last value ***discountedPrice*** to log on the debugging console.\
 Q3. It writes the value ***finalPrice*** to log on the debugging console.\
 Q4. It will return the discounted list [ 50, 100, 150 ], since the input for prices is a list and the discount is 0.5, so the soltuion will a list with 0.5 discount.\
 Q5. It will have ReferenceError since ***i*** is undefine\
 Q6. It will have ReferenceError since ***discountedPrice*** is undefine\
-Q7. It writes the value ***finalPrice*** to log on the debugging console.\
+Q7. It writes the last value in ***finalPrice*** to log on the debugging console.\
 Q8. It will return the discounted list [ 50, 100, 150 ], since the input for prices is a list and the discount is 0.5, so the soltuion will a list with 0.5 discount.\
 Q9. It will have TypeError becuase ***i*** is constant\
 Q10. It will have TypeError becuase ***discountedPrice*** is constant\
@@ -24,7 +24,7 @@ Q14. \
 &emsp;&emsp; E. **4** when adding bool and int, JavaScript will treat the bool as a int 1 or 0.\
 &emsp;&emsp; F. **0** when adding bool and int, JavaScript will treat the bool as a int 1 or 0.\
 &emsp;&emsp; G. **3undefined** when adding string and falsy value, falsy value be treated as string\
-&emsp;&emsp; H. **NaN**\
+&emsp;&emsp; H. **NaN** string "3" be treated as in and 3 - NaN = NaN\
 Q15. \
 &emsp;&emsp; A. **True** When comparing a string with a number, JavaScript will convert the string to a number when doing the comparison. \
 &emsp;&emsp; B. **False** When comparing two strings, "2" will be greater than "12", because (alphabetically) 1 is less than 2.\
@@ -35,4 +35,8 @@ Q15. \
 Q16. When using triple equals === in JavaScript, we are testing for strict equality. This means both the type and the value we are comparing have to be the same. When using double equals == in JavaScript, two values are compared only after attempting to convert them into a common type.\
 Q17. It will print 'How are you?' because 2 is != true so go to line 3, the else if condition is true so it prints 'How are you?'\
 Q19. When the function get called, in the for-loop, newArr is push in a (1, doSomething(1, callback)), and then doSomething(1, callback) will return 1+2 whcih is 3, then callback return 3\*2 which is 6 and got push into the newArr and i increase. same way to get 8 and 10. \
-Q21. The output is **1,4,3,2**.
+Q21. The output is\
+&emsp;&emsp; **1**\
+&emsp;&emsp; **4**\
+&emsp;&emsp; **3**\
+&emsp;&emsp; **2**
