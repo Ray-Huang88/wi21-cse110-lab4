@@ -1,10 +1,10 @@
-Q1. It writes the value ***i*** to log on the debugging console.\
-Q2. It writes the value ***discountedPrice*** to log on the debugging console.\
+Q1. It writes the value ***i*** which is length of array to log on the debugging console.\
+Q2. It writes the last value ***discountedPrice*** to log on the debugging console.\
 Q3. It writes the value ***finalPrice*** to log on the debugging console.\
 Q4. It will return the discounted list [ 50, 100, 150 ], since the input for prices is a list and the discount is 0.5, so the soltuion will a list with 0.5 discount.\
 Q5. It will have ReferenceError since ***i*** is undefine\
 Q6. It will have ReferenceError since ***discountedPrice*** is undefine\
-Q7. It writes the value ***finalPrice*** to log on the debugging console.\
+Q7. It writes the last value in ***finalPrice*** to log on the debugging console.\
 Q8. It will return the discounted list [ 50, 100, 150 ], since the input for prices is a list and the discount is 0.5, so the soltuion will a list with 0.5 discount.\
 Q9. It will have TypeError becuase ***i*** is constant\
 Q10. It will have TypeError becuase ***discountedPrice*** is constant\
