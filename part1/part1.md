@@ -33,6 +33,6 @@ Q15. \
 &emsp;&emsp; E. **False** For boolean values, true becomes 1, so 1 == 2 is false\
 &emsp;&emsp; F. **True** Boolean(2) return true, so true === true is true\
 Q16. When using triple equals === in JavaScript, we are testing for strict equality. This means both the type and the value we are comparing have to be the same. When using double equals == in JavaScript, two values are compared only after attempting to convert them into a common type.\
-Q17. It will print 'How are you?' because 2 is != true so go to line 3, \
+Q17. It will print 'How are you?' because 2 is != true so go to line 3, the else if condition is true so it prints 'How are you?'\
 Q19. When the function get called, in the for-loop, newArr is push in a (1, doSomething(1, callback)), and then doSomething(1, callback) will return 1+2 whcih is 3, then callback return 3\*2 which is 6 and got push into the newArr and i increase. same way to get 8 and 10. \
 Q21. The output is 1,4,3,2.
