@@ -2,13 +2,13 @@ Q1. It writes the value ***i*** to log on the debugging console.\
 Q2. It writes the value ***discountedPrice*** to log on the debugging console.\
 Q3. It writes the value ***finalPrice*** to log on the debugging console.\
 Q4. It will return the discounted list [ 50, 100, 150 ], since the input for prices is a list and the discount is 0.5, so the soltuion will a list with 0.5 discount.\
-Q5. It will have ReferenceError since i is undefine\
-Q6. It will have ReferenceError since discountedPrice is undefine\
+Q5. It will have ReferenceError since ***i*** is undefine\
+Q6. It will have ReferenceError since ***discountedPrice*** is undefine\
 Q7. It writes the value ***finalPrice*** to log on the debugging console.\
 Q8. It will return the discounted list [ 50, 100, 150 ], since the input for prices is a list and the discount is 0.5, so the soltuion will a list with 0.5 discount.\
-Q9. It will have TypeError becuase i is constant\
-Q10. It will have TypeError becuase discountedPrice is constant\
-Q11. It will have TypeError becuase finalPrice is constant\
+Q9. It will have TypeError becuase ***i*** is constant\
+Q10. It will have TypeError becuase ***discountedPrice*** is constant\
+Q11. It will have TypeError becuase ***finalPrice*** is constant\
 Q12. Can't return because of these errors\
 Q13. \
 &emsp;&emsp; A. console.log(**student.name**);\
@@ -35,4 +35,4 @@ Q15. \
 Q16. When using triple equals === in JavaScript, we are testing for strict equality. This means both the type and the value we are comparing have to be the same. When using double equals == in JavaScript, two values are compared only after attempting to convert them into a common type.\
 Q17. It will print 'How are you?' because 2 is != true so go to line 3, the else if condition is true so it prints 'How are you?'\
 Q19. When the function get called, in the for-loop, newArr is push in a (1, doSomething(1, callback)), and then doSomething(1, callback) will return 1+2 whcih is 3, then callback return 3\*2 which is 6 and got push into the newArr and i increase. same way to get 8 and 10. \
-Q21. The output is 1,4,3,2.
+Q21. The output is **1,4,3,2**.
