@@ -24,7 +24,7 @@ Q14. \
 &emsp;&emsp; E. **4** when adding bool and int, JavaScript will treat the bool as a int 1 or 0.\
 &emsp;&emsp; F. **0** when adding bool and int, JavaScript will treat the bool as a int 1 or 0.\
 &emsp;&emsp; G. **3undefined** when adding string and falsy value, falsy value be treated as string\
-&emsp;&emsp; H. **NaN**\
+&emsp;&emsp; H. **NaN** string "3" be treated as in and 3 - NaN = NaN\
 Q15. \
 &emsp;&emsp; A. **True** When comparing a string with a number, JavaScript will convert the string to a number when doing the comparison. \
 &emsp;&emsp; B. **False** When comparing two strings, "2" will be greater than "12", because (alphabetically) 1 is less than 2.\
