@@ -20,10 +20,10 @@ Q14. \
 &emsp;&emsp; A. **'32'** when adding char/string and int, JavaScript will treat the number as a char/string.\
 &emsp;&emsp; B. **1** char '3' be treated as int and 3-2 = 1 \
 &emsp;&emsp; C. **3** when adding int and falsy value, falsy value be treated as 0\
-&emsp;&emsp; D. **3null** when adding char and falsy value, falsy value be treated as string\
+&emsp;&emsp; D. **'3null'** when adding char and falsy value, falsy value be treated as string\
 &emsp;&emsp; E. **4** when adding bool and int, JavaScript will treat the bool as a int 1 or 0.\
 &emsp;&emsp; F. **0** when adding bool and int, JavaScript will treat the bool as a int 1 or 0.\
-&emsp;&emsp; G. **3undefined** when adding string and falsy value, falsy value be treated as string\
+&emsp;&emsp; G. **'3undefined'** when adding string and falsy value, falsy value be treated as string\
 &emsp;&emsp; H. **NaN** string "3" be treated as in and 3 - NaN = NaN\
 Q15. \
 &emsp;&emsp; A. **True** When comparing a string with a number, JavaScript will convert the string to a number when doing the comparison. \
